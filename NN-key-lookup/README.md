@@ -1,4 +1,3 @@
-===============================
 This example shows how to use train and use a neural network to learn different questions and their associated responses.
 ===============================
 It is divided into three parts:
